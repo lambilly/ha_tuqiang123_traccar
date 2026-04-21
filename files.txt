@@ -1,0 +1,9 @@
+tuqiang123_traccar/
+├── manifest.json
+├── config_flow.py
+├── const.py
+├── __init__.py
+├── tuqiang123_fetcher.py      
+├── translations/
+│   ├── zh-Hans.json
+│   └── en.json (可选)
